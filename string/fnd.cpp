@@ -29,4 +29,5 @@ int main(){
     for(int i : f){
         cout << i << (char)32;
     }
+    return 0;
 }
